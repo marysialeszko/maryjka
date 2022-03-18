@@ -3,7 +3,7 @@ title:  "21.03.26-04.02 MALTA"
 subtitle: "Pierwszy wyjazd Wero - słoneczna, wiosenna Malta"
 author: "Maryjka"
 avatar: "img/authors/wferr.png"
-image: "img/malta.JPG"
+image: "img/malta_rodzinnie.JPG"
 date:   2021-03-26 12:12:12
 ---
 
