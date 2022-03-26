@@ -2,8 +2,8 @@
 title:  "20.10.11-13 BERLIN I MUŻAKÓW"
 subtitle: "Jesienny weekend w Berlinie i wypielęgnowanym Mużakowie"
 author: "Maryjka"
-avatar: "img/authors/wferr.png"
-image: "img/berlin_muzakow.JPG"
+avatar: "img/authors/mary.jpg"
+image: "img/berlin_muzakow.jpg"
 date:   2020-10-11 12:12:12
 ---
 
