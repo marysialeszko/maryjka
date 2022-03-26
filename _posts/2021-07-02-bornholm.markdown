@@ -2,8 +2,8 @@
 title:  "21.07.02-07 BORNHOLM"
 subtitle: "Rowerowy wypad na Bornholm i Pomorze Zachodnie"
 author: "Maryjka"
-avatar: "img/authors/wferr.png"
-image: "img/bornholm.JPG"
+avatar: "img/authors/mary.jpg"
+image: "img/bornholm.jpg"
 date:   2021-07-02 12:12:12
 ---
 
