@@ -2,8 +2,8 @@
 title:  "21.07.10 ŚWIĘTO LATA"
 subtitle: "Świętujemy ciepłe i długie letnie dni!"
 author: "Maryjka"
-avatar: "img/authors/wferr.png"
-image: "img/swieto_lata.JPG"
+avatar: "img/authors/mary.jpg"
+image: "img/swieto_lata.jpg"
 date:   2021-07-10 12:12:12
 ---
 
