@@ -2,8 +2,8 @@
 title:  "21.08.18-31 BAŁKANY"
 subtitle: "Dwa tygodnie objazdu po Bałkanach Zachodnich."
 author: "Maryjka"
-avatar: "img/authors/wferr.png"
-image: "img/balkany.JPG"
+avatar: "img/authors/mary.jpg"
+image: "img/balkany.jpg"
 date:   2021-08-18 05:12:12
 ---
 
