@@ -2,8 +2,8 @@
 title:  "21.04.23-05.09 EGIPT"
 subtitle: "Backpackerskie 2 tygodnie w Egipcie z dwójką dzieci"
 author: "Maryjka"
-avatar: "img/authors/wferr.png"
-image: "img/egipt.JPG"
+avatar: "img/authors/mary.jpg"
+image: "img/egipt.jpg"
 date:   2021-04-23 12:12:12
 ---
 
