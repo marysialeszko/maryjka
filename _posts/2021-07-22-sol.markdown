@@ -2,8 +2,8 @@
 title:  "21.07.22-25 SÓL"
 subtitle: "Sielskie dni w letniej Soli"
 author: "Maryjka"
-avatar: "img/authors/wferr.png"
-image: "img/sol.JPG"
+avatar: "img/authors/mary.jpg"
+image: "img/sol.jpg"
 date:   2021-07-22 12:12:12
 ---
 
