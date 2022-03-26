@@ -2,8 +2,8 @@
 title:  "21.09.09-12 WARMIA"
 subtitle: "Kilka relaksujących dni nad Jeziorem Giłwa na Warmii"
 author: "Maryjka"
-avatar: "img/authors/wferr.png"
-image: "img/warmia.JPG"
+avatar: "img/authors/mary.jpg"
+image: "img/warmia.jpg"
 date:   2021-09-09 12:12:12
 ---
 
