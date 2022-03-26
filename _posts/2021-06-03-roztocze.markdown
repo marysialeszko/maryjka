@@ -2,8 +2,8 @@
 title:  "21.06.03-06 ROZTOCZE"
 subtitle: "Czerwcówka na malowniczym Roztoczu"
 author: "Maryjka"
-avatar: "img/authors/wferr.png"
-image: "img/roztocze.JPG"
+avatar: "img/authors/mary.jpg"
+image: "img/roztocze.jpg"
 date:   2021-06-03 12:12:12
 ---
 
