@@ -8,6 +8,8 @@ date:   2021-09-09 12:12:12
 end_date:   2021-09-12 12:12:12
 ---
 
+To był nasz pierwszy rodzinny wypad do Północno-wschodniej Polski. 
+
 ### Miejsca
 🇵🇱 **Polska:** Woryty - Skansen w Olsztynku - Olsztyn - Grunwald - Góra Dylewska
 
