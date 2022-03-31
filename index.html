@@ -74,7 +74,8 @@ layout: compress
                             <div class ="image-gallery">
                                 {{ post.photos_path }}
                                 {% assign sorted = site.static_files | sort: 'date' | reverse %}
-                                {% for file in post.photos_path %}
+                                {% for file in post.images %}
+                                    {{ file }}
                                     {% if file.path contains include.folder %}
                                     {% if file.extname == '.png' %}
                                         {% assign filenameparts = file.path | split: "/" %}
