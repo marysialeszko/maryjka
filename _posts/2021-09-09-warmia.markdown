@@ -6,6 +6,7 @@ avatar: "img/authors/mary.jpg"
 image: "img/warmia.jpg"
 date:   2021-09-09 12:12:12
 end_date:   2021-09-12 12:12:12
+photos_path: "img/warmia"
 ---
 
 ### Miejsca
@@ -15,7 +16,7 @@ end_date:   2021-09-12 12:12:12
 ⛰️ **Korona Polski - 16 Województw:** Góra Dylewska, 312 m. n. p. m., Wzgórza Dylewskie
 
 ### Zdjęcia
-Zdjęcia z wypadu na Warmię znajdziecie tutaj: <a href="https://photos.app.goo.gl/VxFoJBG36fWjsMX58">tutaj</a>.
+Zdjęcia z wypadu na Warmię znajdziecie <a href="https://photos.app.goo.gl/VxFoJBG36fWjsMX58">tutaj</a>.
 
 To był nasz pierwszy rodzinny wypad do Północno-wschodniej Polski. Co prawda, miał być nieco dłuższy, ale przedszkolne zarazki nieco nam pokrzyżowały plany. Tak czy siak - pierwsze zetknięcie z warmińskimi jeziorami, skansenem, polami Grunwaldu i zabytkami Olsztyna uważamy za niezwykle udane!
 A wspólne wdrapywanie się na odnowioną wieżę widokową na szczycie Góry Dylewskiej było wisienką na torcie tego wyjazdu.
