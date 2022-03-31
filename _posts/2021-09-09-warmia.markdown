@@ -5,16 +5,27 @@ author: "Maryjka"
 avatar: "img/authors/mary.jpg"
 image: "img/warmia.jpg"
 date:   2021-09-09 12:12:12
+end_date:   2021-09-12 12:12:12
 ---
 
 ### Miejsca
-Woryty - Skansen w Olsztynku - Olsztyn - Grunwald - Góra Dylewska
+🇵🇱 **Polska:** Woryty - Skansen w Olsztynku - Olsztyn - Grunwald - Góra Dylewska
+
+### Góry
+⛰️ **Korona Polski - 16 Województw:** Góra Dylewska, 312 m. n. p. m., Wzgórza Dylewskie
 
 ### Zdjęcia
-https://photos.app.goo.gl/VxFoJBG36fWjsMX58
+Zdjęcia z wypadu na Warmię znajdziecie tutaj: https://photos.app.goo.gl/VxFoJBG36fWjsMX58
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+To był nasz pierwszy rodzinny wypad do Północno-wschodniej Polski. Co prawda, miał być nieco dłuższy, ale przedszkolne zarazki nieco nam pokrzyżowały plany. Tak czy siak - pierwsze zetknięcie z warmińskimi jeziorami, skansenem, polami Grunwaldu i zabytkami Olsztyna uważamy za niezwykle udane!
+A wspólne wdrapywanie się na odnowioną wieżę widokową na szczycie Góry Dylewskiej było wisienką na torcie tego wyjazdu.
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
-
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+![image](https://user-images.githubusercontent.com/8321003/161048066-fd51d135-b396-499c-9f3d-457c404e8b79.png)
+![image](https://user-images.githubusercontent.com/8321003/161048097-fe854f07-99f6-4ef2-ba19-3a5916904a0b.png)
+![image](https://user-images.githubusercontent.com/8321003/161048115-7316b3c4-dc42-4fa6-b989-b1eec0bbc385.png)
+![image](https://user-images.githubusercontent.com/8321003/161048145-1f7e77e0-b43f-4c6b-99c7-4ce267115fe7.png)
+![image](https://user-images.githubusercontent.com/8321003/161048182-6cedf766-8b5e-4969-bcdf-12e0e2348d9a.png)
+![image](https://user-images.githubusercontent.com/8321003/161048207-c84d6e0d-03e0-4569-894a-f7b141c65da9.png)
+![image](https://user-images.githubusercontent.com/8321003/161048249-2989d79c-feb5-4fcd-9dcc-1671162929d0.png)
+![image](https://user-images.githubusercontent.com/8321003/161048283-07f8a3dc-90a2-4c0b-b70e-686c96ca9d23.png)
+![image](https://user-images.githubusercontent.com/8321003/161048300-63652a5e-5deb-4556-ae18-fe14e50a1991.png)
