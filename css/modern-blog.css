@@ -94,6 +94,7 @@
 	line-height: 1;
 	margin: 5px 0 0;
 	color: #777778;
+	padding: 0 0 1em 0;
 }
 
 .card__container--closed .card__subtitle {
@@ -110,7 +111,6 @@
 
 .card__copy p:first-of-type {
 	font-size: 1em;
-	padding: 0 0 0 0;
 }
 
 .card__copy h3 {
