@@ -5,3 +5,5 @@ keywords: Travel, photography, hairdresser, blogging
 author: Maryjka
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
+imagesurl: "/maryjka/img/"
+thumbsurl: "/maryjka/thumbs/"
