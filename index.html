@@ -77,7 +77,7 @@ layout: compress
                                 {% for file in post.images %}
                                     {{ file }}
                                     <div class="box"><a href="{{ file | relative_url }}" title="{{ file }}">
-                                        <img src="{{ site.thumbsurl }}{{file }} " alt="{{ filename }}"  class="img-gallery" />
+                                        <img src="{{file }} " alt="{{ filename }}"  class="img-gallery" />
                                         </a></div>
                                     {% if file.path contains include.folder %}
                                     {% if file.extname == '.png' %}
