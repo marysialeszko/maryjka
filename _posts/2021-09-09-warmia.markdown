@@ -7,6 +7,9 @@ image: "img/warmia.jpg"
 date:   2021-09-09 12:12:12
 end_date:   2021-09-12 12:12:12
 photos_path: "img/warmia"
+images:
+  - "img/warmia/DSC02138.JPG"
+  - "img/warmia/DSC02138.JPG"
 ---
 
 ### Miejsca
