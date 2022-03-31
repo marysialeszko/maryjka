@@ -76,6 +76,9 @@ layout: compress
                                 {% assign sorted = site.static_files | sort: 'date' | reverse %}
                                 {% for file in post.images %}
                                     {{ file }}
+                                    <div class="box"><a href="{{ file | relative_url }}" title="{{ file }}">
+                                        <img src="{{ site.thumbsurl }}{{file }} " alt="{{ filename }}"  class="img-gallery" />
+                                        </a></div>
                                     {% if file.path contains include.folder %}
                                     {% if file.extname == '.png' %}
                                         {% assign filenameparts = file.path | split: "/" %}
