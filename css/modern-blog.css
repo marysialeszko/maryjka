@@ -252,10 +252,6 @@ a:focus {
 	background: #acaad1;
 }
 
-.body a {
-	color: #de6551;
-}
-
 .body .header h1 span {
 	color: #4f4c4c;
 }
@@ -296,6 +292,7 @@ a:focus {
 .links a {
 	display: inline-block;
 	margin: 0 .5em;
+	color: #4f4c4c;
 }
 
 /* cards wrapper and close btn */
