@@ -1,20 +1,33 @@
 ---
 title:  "21.08.18-31 BAŁKANY"
-subtitle: "Dwa tygodnie objazdu po Bałkanach Zachodnich."
+subtitle: "Dwa tygodnie objazdu po Bałkanach Zachodnich"
 author: "Maryjka"
 avatar: "img/authors/mary.jpg"
 image: "img/balkany.jpg"
 date:   2021-08-18 05:12:12
+end_date:   2021-08-31 12:12:12
+photos_path: "img/balkany"
+images:
+  - "img/warmia/221BC51A-D4A5-43A4-A808-475F1CBE3E28.jpeg"
+  - "img/warmia/IMG_5766.jpeg"
+  - "img/warmia/IMG_5769.jpeg"
+  - "img/warmia/IMG_5771.jpeg"
+  - "img/warmia/IMG_5797.jpeg"
+  - "img/warmia/IMG_5883.jpeg"
+  - "img/warmia/IMG_5977.jpeg"
+  - "img/warmia/IMG_6031.jpeg"
 ---
+🌍 **Miejsca**<br/>
+<sub><sup>🇦🇹 **Austria:** Graz</sup></sub><br/>
+<sub><sup>🇭🇷 **Chorwacja:** Dinara</sup></sub><br/>
+<sub><sup>🇧🇦 **Bośnia i Hercegowina:** Mostar - Blagaj</sup></sub><br/>
+<sub><sup>🇲🇪 **Czarnogóra:** Perast - Sveti Stefan - Cetinje - Góry Lovćen - Kotor - Budva - Podgorica - Góry Przeklęte</sup></sub><br/>
+<br/>
+⛰️ **Góry**<br/>
+<sub><sup>**Korona Gór Świata:** Chorwacja: Dinara, 1830 m. n. p. m., Góry Dynarskie</sup></sub><br/>
+<sub><sup>**Korona Gór Świata:** Czarnogóra: Zla Kolata, 2534 m. n. p. m., Góry Przeklęte</sup></sub><br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z bałkańskiej objazdówki znajdziecie <a href="https://photos.app.goo.gl/aCgtUU8WhhKnA22p9">tutaj</a>**</sup></sub>
 
-### Miejsca
-Graz (Austria) - KGŚ: Dinara (Chorwacja) - Mostar (Bośnia i Hercegowina) - Blagaj (Bośnia i Hercegowina) - Perast (Czarnogóra) - Sveti Stefan (Czarnogóra) - Cetinje (Czarnogóra) - Góry Lovćen (Czarnogóra) - Kotor (Czarnogóra) - Budva (Czarnogóra) - Podgorica (Czarnogóra) - KGŚ: Zla Kolata (Czarnogóra)
-
-### Zdjęcia
-https://photos.app.goo.gl/aCgtUU8WhhKnA22p9
-
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
-
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
-
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+Kochamy Bałkany, kochamy góry i kochamy lato! Co tu dużo mówić, ten wyjazd łączył wszystko to, co lubimy najbardziej. Spotkaliśmy przyjaciół, zdobyliśmy dwa szczyty z Korony Gór Świata, piliśmy mocną, czarną kawę z ketelka, pochłanialiśmy olbrzymie ilości ćevapčići i cieszyliśmy się letnią pogodą. A wszystko to w niesamowitych okolicznościach przyrody i w cudownych bałkańskich miejscowościach. I nawet fryzjer w Czarnogórze też się znalazł!
