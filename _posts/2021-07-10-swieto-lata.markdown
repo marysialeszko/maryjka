@@ -1,20 +1,25 @@
 ---
-title:  "21.07.10 ŚWIĘTO LATA"
-subtitle: "Świętujemy ciepłe i długie letnie dni!"
+title:  "21.09.27-10.27 EKWADOR I GALAPAGOS"
+subtitle: "Miesiąc wśród wulkanów na równiku"
 author: "Maryjka"
 avatar: "img/authors/mary.jpg"
-image: "img/swieto_lata.jpg"
-date:   2021-07-10 12:12:12
+image: "img/ekwador.jpg"
+date:   2021-09-27 12:12:12
+end_date:   2021-10-27 12:12:12
+photos_path: "img/ekwador"
+images:
+  - "221BC51A-D4A5-43A4-A808-475F1CBE3E28.jpeg"
 ---
+🇪🇨 **Ekwador**<br/>
+**<sub><sup>Quito - Mindo - Mitad del Mundo - Otavalo - Galapagos - Guayaquil - Cuenca - PN Podocarpus - Vilcabamba - Ingapirca - Alausi - Baños - Quilotoa</sup></sub>**
+<br/>
+⛰️ **Góry**<br/>
+<sub><sup>**Pichincha, 4698 m. n. p. m., Kordyliera Zachodnia, Andy</sup></sub><br/>
+<sub><sup>**Cotopaxi, 5897 m. n. p. m., Kordyliera Zachodnia, Andy</sup></sub><br/>
+<sub><sup>**Korona Gór Świata: Ekwador: Chimborazo, 6310 m. n. p. m., Kordyliera Zachodnia, Andy</sup></sub><br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z wyprawy do Ekwadoru i na Galapagos znajdziecie <a href="https://photos.app.goo.gl/i22KStXb5zL4Rn5R9">tutaj</a>**</sup></sub>
 
-### Miejsca
-Nielepice, pod Krakowem
+Nasz pierwszy rodzinny raz w Ameryce Południowej i to aż na miesiąc! Trudno uwierzyć jak bardzo taki mały kraj jak Ekwador może być zróżnicowany. Łapaliśmy zadyszkę w wysokopołożonym Quito (gdzie z centrum miasta można wjechać kolejką na 4 tysiące metrów nad poziomem morza i huśtać się tam na huśtawce!), podziwialiśmy mglisty las równikowy w Mindo, przyglądaliśmy się olbrzymim żółwiom i leniwym iguanom na rajskich wyspach Galapagos, spacerowaliśmy po maleconie w tropikalnym Guayaquil i szukaliśmy lam na andyjskich paramo. Wszystko to popijając sokiem z marakui. No i przede wszystkim! Rafał pokonał barierę 6 tysięcy metrów i wszedł na Chimborazo!
 
-### Zdjęcia
-https://photos.app.goo.gl/cwYh69H9sPs9C87YA
-
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
-
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
-
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
