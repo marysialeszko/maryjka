@@ -8,14 +8,14 @@ date:   2021-09-09 12:12:12
 end_date:   2021-09-12 12:12:12
 photos_path: "img/warmia"
 images:
-  - "img/warmia/221BC51A-D4A5-43A4-A808-475F1CBE3E28.jpeg"
-  - "img/warmia/IMG_5766.jpeg"
-  - "img/warmia/IMG_5769.jpeg"
-  - "img/warmia/IMG_5771.jpeg"
-  - "img/warmia/IMG_5797.jpeg"
-  - "img/warmia/IMG_5883.jpeg"
-  - "img/warmia/IMG_5977.jpeg"
-  - "img/warmia/IMG_6031.jpeg"
+  - "221BC51A-D4A5-43A4-A808-475F1CBE3E28.jpeg"
+  - "IMG_5766.jpeg"
+  - "IMG_5769.jpeg"
+  - "IMG_5771.jpeg"
+  - "IMG_5797.jpeg"
+  - "IMG_5883.jpeg"
+  - "IMG_5977.jpeg"
+  - "IMG_6031.jpeg"
 ---
 🇵🇱 **Polska**<br/>
 **<sub><sup>Woryty - Skansen w Olsztynku - Olsztyn - Grunwald - Góra Dylewska</sup></sub>**
