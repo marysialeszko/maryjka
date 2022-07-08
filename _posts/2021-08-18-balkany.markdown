@@ -8,14 +8,18 @@ date:   2021-08-18 05:12:12
 end_date:   2021-08-31 12:12:12
 photos_path: "img/balkany"
 images:
-  - "img/warmia/221BC51A-D4A5-43A4-A808-475F1CBE3E28.jpeg"
-  - "img/warmia/IMG_5766.jpeg"
-  - "img/warmia/IMG_5769.jpeg"
-  - "img/warmia/IMG_5771.jpeg"
-  - "img/warmia/IMG_5797.jpeg"
-  - "img/warmia/IMG_5883.jpeg"
-  - "img/warmia/IMG_5977.jpeg"
-  - "img/warmia/IMG_6031.jpeg"
+  - "20210820_103731.jpg"
+  - "DSC01738.JPG"
+  - "DSC01782.JPG"
+  - "DSC01801.JPG"
+  - "DSC01829.JPG"
+  - "DSC01928.JPG"
+  - "DSC01945.JPG"
+  - "DSC01953.JPG"
+  - "DSC01971.JPG"
+  - "DSC01993.JPG"
+  - "DSC02006.JPG"
+  - "DSC02037.JPG"
 ---
 🌍 **Miejsca**<br/>
 <sub><sup>🇦🇹 **Austria:** Graz</sup></sub><br/>
