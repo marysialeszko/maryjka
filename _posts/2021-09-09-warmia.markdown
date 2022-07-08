@@ -16,6 +16,7 @@ images:
   - "IMG_5883.jpeg"
   - "IMG_5977.jpeg"
   - "IMG_6031.jpeg"
+  - "IMG_5858.jpg"
 ---
 🇵🇱 **Polska**<br/>
 **<sub><sup>Woryty - Skansen w Olsztynku - Olsztyn - Grunwald - Góra Dylewska</sup></sub>**
