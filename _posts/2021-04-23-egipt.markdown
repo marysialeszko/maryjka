@@ -5,16 +5,20 @@ author: "Maryjka"
 avatar: "img/authors/mary.jpg"
 image: "img/egipt.jpg"
 date:   2021-04-23 12:12:12
+end_date:   2021-05-09 12:12:12
+photos_path: "img/egipt"
+images:
+  - "20210820_103731.jpg"
 ---
+🇪🇬 **Egipt**<br/>
+**<sub><sup>Szarm El-Szejk - Góra Świętej Katarzyny - Kair - Asuan - Abu Simbel - Wyspa File - Luksor - Giza</sup></sub>**<br/>
+<br/>
+⛰️ **Góry**<br/>
+<sub><sup>**Korona Gór Świata:** Egipt: Góra Świętej Katarzyny, 2629 m. n. p. m., Synaj</sup></sub><br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z egipskiej wyprawy znajdziecie <a href="https://photos.app.goo.gl/cC7asfUNE7xfVCbh6">tutaj</a>**</sup></sub>
 
-### Miejsca
-Szarm El-Szejk - KGŚ: Góra Świętej Katarzyny - Kair - Asuan - Abu Simbel - Wyspa File - Luksor - Kair
-
-### Zdjęcia
-https://photos.app.goo.gl/cC7asfUNE7xfVCbh6
-
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
-
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
-
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+Egipt był jednym z nielicznych otwartych w pandemii państw, do tego z niewielką ilością zachorowań. Nad decyzją o wyjeździe nie myśleliśmy więc długo.<br/>
+Nie zawiedliśmy się. Okazuje się, że Egipt, mimo sławy jako kierunek all-inclusive, świetnie nadaje się również do podróży na własną rękę, do tego z małymi dziećmi. Wypróbowaliśmy jazdę autem, wewnętrzne loty samolotem, busa, pociąg wzdłuż Nilu, a nawet łódkę.<br/>
+O przeciekawych zabytkach i świetnym arabskim jedzeniu nawet nie wspomnę. Nawet ponowne trafienie w Ramadan nie popsuło nam humorów!
