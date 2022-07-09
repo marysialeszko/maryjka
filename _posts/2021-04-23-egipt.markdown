@@ -8,7 +8,30 @@ date:   2021-04-23 12:12:12
 end_date:   2021-05-09 12:12:12
 photos_path: "img/egipt"
 images:
-  - "20210820_103731.jpg"
+  - "DSC00524.JPG"
+  - "DSC00540.JPG"
+  - "DSC00548.JPG"
+  - "DSC00559.JPG"
+  - "DSC00789.JPG"
+  - "DSC00850.JPG"
+  - "DSC09281.JPG"
+  - "DSC09285.JPG"
+  - "DSC09291.JPG"
+  - "DSC09391.JPG"
+  - "DSC09491.JPG"
+  - "DSC09582.JPG"
+  - "DSC09615.JPG"
+  - "DSC09685.JPG"
+  - "DSC09697.JPG"
+  - "DSC09918.JPG"
+  - "DSC09968.JPG"
+  - "DSC10099.JPG"
+  - "DSC10132.JPG"
+  - "DSC10229.JPG"
+  - "DSC10255.JPG"
+  - "DSC10258.JPG"
+  - "DSC10294.JPG"
+  - "DSC10307.JPG"
 ---
 🇪🇬 **Egipt**<br/>
 **<sub><sup>Szarm El-Szejk - Góra Świętej Katarzyny - Kair - Asuan - Abu Simbel - Wyspa File - Luksor - Giza</sup></sub>**<br/>
