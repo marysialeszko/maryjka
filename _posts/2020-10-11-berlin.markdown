@@ -5,16 +5,17 @@ author: "Maryjka"
 avatar: "img/authors/mary.jpg"
 image: "img/berlin_muzakow.jpg"
 date:   2020-10-11 12:12:12
+end_date:   2021-10-13 12:12:12
+photos_path: "img/berlin"
+images:
+  - "IMG_4325.jpg"
 ---
+🇩🇪 **Niemcy**<br/>
+**<sub><sup>Berlin - Mużaków</sup></sub>**<br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z rodzinnych odwiedzin w Soli znajdziecie <a href="https://photos.app.goo.gl/yzaqyo3TZYWom2Ma8">tutaj</a>**</sup></sub>
 
-### Miejsca
-Berlin - Mużaków
-
-### Zdjęcia
-https://photos.app.goo.gl/yzaqyo3TZYWom2Ma8
-
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
-
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
-
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+Ostatni zagraniczny wyjazd - i w roku 2020, i przed zaostrzenie pandemicznych przepisów, i przed pojawieniem się Weroniki na świecie!<br/>
+Okazją była, jedna z nielicznych już, konferencji stacjonarnych w Berlinie. Miło spędziliśmy tam niecałe trzy dni, eksplorując berlińskie kawiarnie, zwiedzając niezaliczone jeszcze atrakcje, a nawet próbując się przekonać do niemieckiej kuchni (nie udało się :)).<br/>
+A w drodze powrotnej odwiedziliśmy modernistyczne osiedle Gartenstadt Falkenberg oraz przepiękny Mużaków.
