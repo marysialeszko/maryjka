@@ -5,16 +5,19 @@ author: "Maryjka"
 avatar: "img/authors/mary.jpg"
 image: "img/bornholm.jpg"
 date:   2021-07-02 12:12:12
+end_date:   2021-07-07 12:12:12
+photos_path: "img/bornholm"
+images:
+  - "20210820_103731.jpg"
 ---
+🌍 **Miejsca**<br/>
+<sub><sup>🇵🇱 **Polska:** Szczecin</sup></sub><br/>
+<sub><sup>🇩🇪 **Niemcy:** Stralsund</sup></sub><br/>
+<sub><sup>🇩🇰 **Dania/Bornholm:** Ronne - Nexø - Svaneke - Gudhjem - Sandvig - Hasle - Ronne</sup></sub><br/>
+<sub><sup>🇵🇱 **Polska:** Krzywy Las - Świebodzin</sup></sub><br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z rowerowej wykapki na Bornholm i Pomorze znajdziecie <a href="https://photos.app.goo.gl/7LxppjtHnWYhaJZU9">tutaj</a>**</sup></sub>
 
-### Miejsca
-Szczecin - Stralsund (Niemcy) - Ronne (Bornholm) - Nexø (Bornholm) - Svaneke (Bornholm) - Gudhjem (Bornholm) - Sandvig (Bornholm) - Hasle (Bornholm) - Ronne (Bornholm) - Krzywy Las - Świebodzin
-
-### Zdjęcia
-https://photos.app.goo.gl/7LxppjtHnWYhaJZU9
-
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
-
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
-
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+Nasza pierwsza wykapka rowerowa we czwórkę. Oraz debiut Weroniki pod namiotem. <br/>
+Może nie wszystko poszło idealnie zgodnie z planem, ale Bornholm nas zdecydowanie oczarował. I potwierdzamy, to rowerowy i kempingowy raj! A do tego zobaczyliśmy kawałek Pomorza Zachodniego i hanzeatyckie niemieckie Stralsund - całkiem udana trasa!
