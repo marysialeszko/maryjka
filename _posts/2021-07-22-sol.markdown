@@ -16,7 +16,7 @@ images:
   - "IMG_4355.jpg"
 ---
 🇵🇱 **Polska**<br/>
-**<sub><sup>Sól Słanica</sup></sub>**
+**<sub><sup>Sól Słanica</sup></sub>**<br/>
 <br/>
 📸 **Zdjęcia**<br/>
 <sub><sup>**Zdjęcia z rodzinnych odwiedzin w Soli znajdziecie <a href="https://photos.app.goo.gl/woHWkX5etN81kfE27">tutaj</a>**</sup></sub>
