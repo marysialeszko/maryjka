@@ -8,7 +8,18 @@ date:   2021-07-02 12:12:12
 end_date:   2021-07-07 12:12:12
 photos_path: "img/bornholm"
 images:
-  - "20210820_103731.jpg"
+  - "DSC01021.JPG"
+  - "DSC01038.JPG"
+  - "DSC01073.JPG"
+  - "DSC01074.JPG"
+  - "DSC01119.JPG"
+  - "DSC01151.JPG"
+  - "DSC01177.JPG"
+  - "DSC01220.JPG"
+  - "DSC01264.JPG"
+  - "DSC01267.JPG"
+  - "DSC01314.JPG"
+  - "DSC01325.JPG"
 ---
 🌍 **Miejsca**<br/>
 <sub><sup>🇵🇱 **Polska:** Szczecin</sup></sub><br/>
