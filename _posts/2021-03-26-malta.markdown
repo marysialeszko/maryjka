@@ -8,7 +8,15 @@ date:   2021-03-26 12:12:12
 end_date:   2021-04-02 12:12:12
 photos_path: "img/malta_rodzinnie"
 images:
-  - "20210820_103731.jpg"
+  - "DSC09089.JPG"
+  - "DSC09093.JPG"
+  - "DSC09102.JPG"
+  - "DSC09106.JPG"
+  - "DSC09110.JPG"
+  - "DSC09113.JPG"
+  - "DSC09117.JPG"
+  - "DSC09142.JPG"
+  - "DSC09182.JPG"
 ---
 🇲🇹 **Malta**<br/>
 **<sub><sup>Balluta Bay - Ta'Dmejrek - Mdina - Rabat - Popeye Village - Sliema - Mosta - Gzira - Valetta - Birgu</sup></sub>**<br/>
