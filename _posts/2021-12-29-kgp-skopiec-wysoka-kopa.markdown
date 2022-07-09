@@ -3,7 +3,7 @@ title:  "21.12.29-31 KGP: SKOPIEC, WYSOKA KOPA"
 subtitle: "Sylwester w Kotlinie Jeleniogórskiej"
 author: "Maryjka"
 avatar: "img/authors/mary.jpg"
-image: "img/skopiec_kopa.jpg"
+image: "img/skopiec.jpg"
 date:   2021-12-29 05:12:12
 end_date:   2021-12-31 12:12:12
 photos_path: "img/skopiec_kopa"
