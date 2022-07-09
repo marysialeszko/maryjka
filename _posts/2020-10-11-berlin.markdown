@@ -6,9 +6,14 @@ avatar: "img/authors/mary.jpg"
 image: "img/berlin_muzakow.jpg"
 date:   2020-10-11 12:12:12
 end_date:   2021-10-13 12:12:12
-photos_path: "img/berlin"
+photos_path: "img/berlin_muzakow"
 images:
-  - "IMG_4325.jpg"
+  - "DSC08352.JPG"
+  - "DSC08357.JPG"
+  - "DSC08370.JPG"
+  - "DSC08373.JPG"
+  - "DSC08377.JPG"
+  - "DSC08427.JPG"
 ---
 🇩🇪 **Niemcy**<br/>
 **<sub><sup>Berlin - Mużaków</sup></sub>**<br/>
