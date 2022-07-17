@@ -1,6 +1,6 @@
 ---
 title:  "20.09.19-27 KRETA I SANTORYN"
-subtitle: "Tydzień po sezonie na greckich wyspach"
+subtitle: "Tydzień na greckich wyspach po sezonie"
 author: "Maryjka"
 avatar: "img/authors/mary.jpg"
 image: "img/kreta_santoryn.jpg"
