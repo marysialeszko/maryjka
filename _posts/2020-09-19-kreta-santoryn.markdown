@@ -32,6 +32,5 @@ images:
 📸 **Zdjęcia**<br/>
 <sub><sup>**Zdjęcia z naszych greckich wakacji znajdziecie <a href="https://photos.app.goo.gl/qXnokecfsEHPLUGo6">tutaj</a>**</sup></sub>
 
-Greckich wysp nie trzeba nikomu zachwalać. A Krety i Santorynu zwłaszcza.<br/>
-Z porą wyjazdu też trafiliśmy idealnie - wrzesień to już po sezonie, za to pogoda wciąż jest dobra.<br/>
+Greckich wysp nie trzeba nikomu zachwalać, a Krety i Santorynu zwłaszcza. Nie tylko zresztą kierunek wyjazdu nam się udał, czas też był idealny. Wrzesień jest już po sezonie turystycznym, a pogoda wciąż jest dobra. No i po paru miesiącach okazało się, że idealnie trafiliśmy także w pandemiczne okno.<br/>
 Tydzień pobytu wykorzystaliśmy naprawdę dobrze. Było trochę plaży (Matala), trochę antycznych ruin (Knossos), trochę wędrówek (wąwóz Samaria i trasa z Firy do Oia na Santorynie) i całkiem sporo malowniczych miast i miasteczek. Do tego zaliczyliśmy kilka zachwytów grecką kuchnią - taramasalata, dakos i fava na długo zostaną w naszej pamięci. A wszystko to okraszone doskonałym towarzystwem przyjaciół!
