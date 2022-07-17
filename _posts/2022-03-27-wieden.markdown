@@ -1,0 +1,24 @@
+---
+title:  "22.03.27-28 WIEDEŃ"
+subtitle: "Dziewczyński weekend we Wiedniu z Różą"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/wieden.jpg"
+date:   2022-03-27 12:12:12
+end_date:   2022-03-28 12:12:12
+photos_path: "img/wieden"
+images:
+  - "DSC05132.JPG"
+  - "DSC05143.JPG"
+  - "DSC05175.JPG"
+  - "DSC05177.JPG"
+  - "DSC05193.JPG"
+  - "DSC05203.JPG"
+---
+🇦🇹 **Austria**<br/>
+**<sub><sup>Wiedeń</sup></sub>**<br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z dziewczyńskiego weekendu we Wiedniu znajdziecie <a href="https://photos.app.goo.gl/eeZSWz8GA7HZJxGa7">tutaj</a>**</sup></sub>
+
+To był nasz pierwszy weekend z Różą tylko we dwie. Wczesnym rankiem poleciałyśmy do Wiednia, gdzie czekało na nas mnóstwo aktywności: rejs Dunajem, zabawa na Praterze, degustacja tortu Sachera i zwiedzanie wiedeńskich placów zabaw. Wszystko to opychając się wiener schnitzlem, sztrudlem jabłkowym i popijając ciepłym mlekiem. Polecamy dziewczyńskie wyjazdy!
