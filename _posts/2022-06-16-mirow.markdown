@@ -1,0 +1,28 @@
+---
+title:  "22.06.16-19 ROWEROWA JURA"
+subtitle: "Rowery i zamki Jury Krakowsko-Częstochowskiej"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/mirow.jpg"
+date:   2022-06-16 12:12:12
+end_date:   2022-06-19 12:12:12
+photos_path: "img/mirow"
+images:
+  - "IMG_2608.jpg"
+  - "IMG_2642.jpg"
+  - "restauracja.jpg"
+  - "IMG_2693.jpg"
+  - "IMG_2707.jpg"
+  - "IMG_2735.jpg"
+  - "IMG_2779.jpg"
+  - "IMG_2833.jpg"
+  - "IMG_2838.jpg"
+---
+🇵🇱 **Polska**<br/>
+**<sub><sup>Mirów - Bobolice - Żarki - Jaskinia Głęboka</sup></sub>**<br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z wyjazdu na Jurę znajdziecie <a href="https://photos.app.goo.gl/ngma7RmDWejxoftC9">tutaj</a>**</sup></sub>
+
+Czerwiec, długi weekend (Boże Ciało), letni klimat, rowery i przyjaciele - tak brzmi przepis na dobry wyjazd.<br/> 
+Wzbogaciliśmy to jeszcze odwiedzeniem ruin dwóch Orlich Gniazd - zamku w Mirowie i zamku w Bobolicach, oraz zejściem do Jaskini Głębokiej, pełnej nietoperzy. A na przepyszne obiady do nadspodziewanie bogatych w dobre restauracje Żarek dojeżdżaliśmy jedną z najprzyjemniejszych tras rowerowych, jakimi w Polsce jechaliśmy! Było super!
