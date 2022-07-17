@@ -34,4 +34,6 @@ images:
 📸 **Zdjęcia**<br/>
 <sub><sup>**Zdjęcia z majowych odwiedzin w Turcji znajdziecie <a href="https://photos.app.goo.gl/iWJw8bdnZzqwsGyd9">tutaj</a>**</sup></sub>
 
-Mamy olbrzymi sentyment do Turcji, mimo, że samego kraju wcale dobrze, poza Stambułem, nie znamy. Ten wyjazd to zmienił - w półtora tygodnia objechaliśmy najważniejsze punkty Zachodniego Wybrzeża. Od Bursy przez ruiny Troi, Pergamonu i Efezu, dojechaliśmy aż do słonecznej Antalyi (spędzając tam kilka dni na plaży). Po drodze cieszyliśmy się wielkomiejskim klimatem Izmiru i brodziliśmy w ciepłej wodzie wapiennych tarasów Pamukkale. Krótki wbieg Rafała na zbocza Uludağ i krótka wizyta w Stambule ostatniego dnia, były idealnym początkiem i zakończeniem wyjazdu. Tylko niedosyt tego kraju w nas pozostał!
+Mamy olbrzymi sentyment do Turcji, mimo że samego kraju wcale dobrze nie znamy. No, może poza Stambułem.<br/> 
+Ten wyjazd to zmienił - w półtora tygodnia objechaliśmy najważniejsze punkty Zachodniego Wybrzeża. Od Bursy przez ruiny Troi, Pergamonu i Efezu, dojechaliśmy aż do słonecznej Antalyi (spędzając tam kilka dni na plaży). Po drodze cieszyliśmy się wielkomiejskim klimatem Izmiru i brodziliśmy w ciepłej wodzie wapiennych tarasów Pamukkale.<br/>
+Krótki wbieg Rafała na zbocza Uludağ i krótka wizyta w Stambule ostatniego dnia, były idealnym początkiem i zakończeniem wyjazdu. Tylko niedosyt tego kraju w nas pozostał!
