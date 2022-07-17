@@ -1,0 +1,28 @@
+---
+title:  "22.04.08-10 TULIPANY"
+subtitle: "Wiosenny przedłużony weekend wśród tulipanowych pól Holandii"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/tulipany.jpg"
+date:   2022-04-08 12:12:12
+end_date:   2022-04-10 12:12:12
+photos_path: "img/tulipany"
+images:
+  - "DSC05360.JPG"
+  - "DSC05518.JPG"
+  - "DSC05674.JPG"
+  - "DSC05692.JPG"
+  - "DSC05843.JPG"
+  - "DSC05854.JPG"
+  - "DSC05869.JPG"
+  - "DSC05941.JPG"
+  - "DSC05964.JPG"
+
+---
+🇳🇱 **Holandia**<br/>
+**<sub><sup>Aalsmeer - Amsterdam - Rotterdam - Keukenhof - Noordwijk - Haga - Delft</sup></sub>**<br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia tulipanów (i innych kwiatów) z Holandii znajdziecie <a href="https://photos.app.goo.gl/jzPEmeSML3c4Wd7X7">tutaj</a>**</sup></sub>
+
+To był od dawna wyczekany przeze mnie wyjazd bez rodziny. Celem były odwiedziny w Rotterdamie u Kasi oraz kwiatowe pola Holandii. Wszystko się idealnie udało, a nawet więcej - zahaczyłam o kwiatową giełdę w Aalsmeers, szukałam miniatur w Madurodamie, krążyłam między kanałami Delft, a nawet spróbowałam stampotu i bitterballen. Ale przede spędziłam czas z Kasią - bezcenne!
