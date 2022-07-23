@@ -31,11 +31,10 @@ images:
   - "DSC07048.JPG"
   - "DSC07082.JPG"
   - "nowa_zelandia.jpg"
-  - "DSC07160.JPG
+  - "DSC07160.JPG"
   - "DSC07205.JPG"
   - "DSC07225.JPG"
   - "DSC07240.JPG"
-
 ---
 🌍 **Miejsca**<br/>
 <sub><sup>🇦🇺 **Australia:** Sydney</sup></sub><br/>
