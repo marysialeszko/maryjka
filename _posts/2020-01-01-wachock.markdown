@@ -1,0 +1,22 @@
+---
+title:  "20.01.01 WĄCHOCK"
+subtitle: "Nowy rok w mieście historii i humoru"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/wachock.jpg"
+date:   2020-01-01 12:12:12
+photos_path: "img/wachock"
+images:
+  - "wachock.jpg"
+  - "IMG_6366.JPG"
+  - "IMG_6379.JPG"
+---
+🇵🇱 **Polska**<br/>
+**<sub><sup>Wąchock</sup></sub>**<br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z noworocznych odwiedzin w Wąchocku znajdziecie <a href="https://photos.app.goo.gl/yaHEASDDnV9PTRG69">tutaj</a>**</sup></sub>
+
+Nowy Rok świętowaliśmy odwiedzając Wąchock.<br/>
+Chociaż dzisiaj to miasteczko kojarzy się wszystkim z dowcipami, prowincjonalnością i stereotypowym sołtysem, to Wąchock ma naprawdę dostojną historię. To jedno z najstarszych miast Polski, z romańskim, starym klasztorem cysterskim, który warto zobaczyć.<br/>
+Wąchock ma do siebie duży dystans - w centrum wmurowane są tablice z najlepszymi kawałami o Wąchocku (<i>'Gdzie w Wąchocku jest kryta pływalnia? Pod mostem!'</i>) oraz stoi tam pomnik w hołdzie polskim sołtysom!
