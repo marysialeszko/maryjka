@@ -1,0 +1,25 @@
+---
+title:  "20.06.11 ZALIPIE"
+subtitle: "Krótka wycieczka do Zalipia i Tarnowa"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/zalipie.jpg"
+date:   2020-06-11 12:12:12
+photos_path: "img/zalipie"
+images:
+  - "IMG-8615.jpg"
+  - "IMG-8630.jpg"
+  - "IMG-8665.jpg"
+  - "IMG-8704.jpg"
+  - "zalipie.jpg"
+  - "IMG-8719.jpg"
+---
+🇵🇱 **Polska**<br/>
+**<sub><sup>Zalipie - Tarnów</sup></sub>**<br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z wycieczki do Zalipia i Tarnowa znajdziecie <a href="https://photos.app.goo.gl/JqtV11Q248244HFy5">tutaj</a>**</sup></sub>
+
+Lockdown wreszcie zelżał, ruszyliśmy więc na pierwszą jednodniową wycieczkę poza Kraków!<br/>
+Zalipie i jego malowane domy chcieliśmy zobaczyć już od dawna. Miły czerwcowy dzień był idealnym momentem na taką wycieczkę. Dopisało także towarzystwo Blondasów.<br/>
+A odwiedziny w uroczym, nieznanym nam wcześniej Tarnowie na obiad, były doskonałym zakończeniem tego wycieczkowego dnia.
