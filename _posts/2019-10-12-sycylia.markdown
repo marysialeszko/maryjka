@@ -1,0 +1,35 @@
+---
+title:  "19.10.12-19 SYCYLIA"
+subtitle: "Tydzień na urokliwej Sycylii"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/sycylia.jpg"
+date:   2019-10-12 05:12:12
+end_date:   2019-10-19 12:12:12
+photos_path: "img/sycylia"
+images:
+  - "DSC04338.JPG"
+  - "DSC04404.JPG"
+  - "DSC04435.JPG"
+  - "DSC04475.JPG"
+  - "DSC04549.JPG"
+  - "DSC04557.JPG"
+  - "sycylia.jpg"
+  - "DSC04692.JPG"
+  - "DSC04723.JPG"
+  - "DSC04800.JPG"
+  - "DSC04842.JPG"
+  - "IMG_5358.JPG"
+
+---
+🇮🇹 **Włochy - Sycylia**<br/>
+**<sub><sup>Agrigento - Palermo - Giardini Naxos - Taormina - Noto - Syrakuzy - Etna</sup></sub>**<br/>
+<br/>
+⛰️ **Góry**<br/>
+<sub><sup>Etna, 3357 m. n. p. m., Sycylia</sup></sub><br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z wycieczki na Sycylię znajdziecie <a href="https://photos.app.goo.gl/U2nA826AhSdDHCmk8">tutaj</a>**</sup></sub>
+
+Sycylia to kwintesencja włoskiego *dolce vita*.<br/>
+Tak nam właśnie minął ten wyjazd - na bardzo słodkim życiu. Jedliśmy świetne jedzenie (do dziś gotujemy *normę* w domu!), raczyliśmy się lodami pistacjowymi, piliśmy mocną kawę w swojskim barze Etna, tarzaliśmy się po plaży. Ale też zwiedzaliśmy piękne miejsca i weszliśmy na prawie sam szczyt Etny! Włochy to idealne miejsce na urlop!
