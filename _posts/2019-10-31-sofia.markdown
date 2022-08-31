@@ -1,0 +1,26 @@
+---
+title:  "19.10.31-11.03 SOFIA"
+subtitle: "Dłuższy weekend w Sofii"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/sofia.jpg"
+date:   2019-10-31 05:12:12
+end_date:   2019-11-03 12:12:12
+photos_path: "img/sofia"
+images:
+  - "sofia.jpg"
+  - "DSC05095.JPG"
+  - "DSC05134.JPG"
+  - "DSC05141.JPG"
+  - "DSC05178.JPG"
+  - "DSC05226.JPG"
+
+---
+🇧🇬 **Bułgaria**<br/>
+**<sub><sup>Sofia - Vitosha</sup></sub>**<br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z wyjazdu do Sofii znajdziecie <a href="https://photos.app.goo.gl/XN6LC8SpWw2cKMcA7">tutaj</a>**</sup></sub>
+
+Weekend Wszystkich Świętych spędziliśmy w Sofii, znów korzystając z Rafałowej konferencji.
+Plany były ambitne, bo chcielibyśmy wejść na Musałę, najwyższą górę Bułgarii. Niestety przeziębienie Róży pokrzyżowało nam plany. Ale nie ma tego złego, co by na dobre nie wyszło. Spędziliśmy za to miły, rodzinny czas w samej Sofii i wjechaliśmy kolejką na mgliste zbocze góry Vitosha.
