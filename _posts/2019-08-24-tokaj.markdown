@@ -1,0 +1,28 @@
+---
+title:  "19.08.24-25 TOKAJ"
+subtitle: "Weekend w Krainie Tokaju"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/tokaj.jpg"
+date:   2019-08-24 05:12:12
+end_date:   2019-08-25 12:12:12
+photos_path: "img/tokaj"
+images:
+  - "DSC02968.JPG"
+  - "DSC03025.JPG"
+  - "DSC03016.JPG"
+  - "DSC03071.JPG"
+  - "DSC03128.JPG"
+  - "tokaj.jpg"
+---
+🇭🇺 **Węgry**<br/>
+**<sub><sup>Tokaj - Aggtelek - Eger - Kékes</sup></sub>**<br/>
+<br/>
+⛰️ **Góry**<br/>
+<sub><sup>**Korona Gór Świata:** Kékes, 1014 m. n. p. m., Góry Mátra</sup></sub><br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z weekendu w Tokaju i wejścia na Kékes znajdziecie <a href="https://photos.app.goo.gl/iUfoTzKqrsbGznYT9">tutaj</a>**</sup></sub>
+
+To był spontan! O świcie w sobotę wsiedliśmy do auta, tak aby śniadanie zjeść już w węgierskim Tokaju.<br/>
+Dalej było jeszcze lepiej - wizyta w tokajskiej winiarnii (oczywiście połączona z degustacją), zwiedzanie unescowej jaskini Aggtelek i pierwszy nocleg Róży na polu namiotowym. Kolejny dzień przyniósł zwiedzanie Egeru oraz spokojne wejście na najwyższy szczyt Węgier - Kékes. 
