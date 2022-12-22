@@ -1,0 +1,25 @@
+---
+title:  "19.04.27 KIJÓW"
+subtitle: "Długa przesiadka w Kijowie"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/kijow.jpg"
+date:   2019-04-27 05:12:12
+end_date:   2019-04-27 12:12:12
+photos_path: "img/kijow"
+images:
+  - "DSC00011.JPG"
+  - "DSC00022.JPG"
+  - "kijow.jpg"
+  - "DSC00098.JPG"
+  - "DSC00165.JPG"
+  - "DSC00196.JPG"
+---
+🇺🇦 **Ukraina**<br/>
+**<sub><sup>Kijów</sup></sub>**<br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z długiego dnia w wiosennym Kijowie znajdziecie <a href="https://photos.app.goo.gl/2AsLqhHyfyqP1EwKA">tutaj</a>**</sup></sub>
+
+Długa przesiadka w stolicy Ukrainy była doskonałym pretekstem, żeby Kijów zwiedzić.<br/>
+Czasu wystarczyło na zachwyty Soborem Mądrości Bożej, wpatrywanie się w złote kopuły Ławry Peczerskiej, spacer po Majdanie Niezależności i pod Złotą Bramę. A nawet na dobrą kawę i pyszne pielmieni. Dobrze wykorzystany czas!
