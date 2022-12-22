@@ -1,0 +1,30 @@
+---
+title:  "19.07.12-14 STAMBUŁ"
+subtitle: "Weekend bez dzieci w Stambule"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/stambul.jpg"
+date:   2019-07-12 05:12:12
+end_date:   2019-07-14 12:12:12
+photos_path: "img/stambul"
+images:
+  - "DSC02588.JPG"
+  - "DSC02610.JPG"
+  - "DSC02625.JPG"
+  - "DSC02691.JPG"
+  - "DSC02702.JPG"
+  - "DSC02729.JPG"
+  - "stambul.jpg"
+  - "DSC02818.JPG"
+  - "DSC02959.JPG"
+
+---
+🇹🇷 **Turcja**<br/>
+**<sub><sup>Stambuł</sup></sub>**<br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z miłego weekendu w Stabule znajdziecie <a href="https://photos.app.goo.gl/w2yxJxRk5EzTMPmn7">tutaj</a>**</sup></sub>
+
+Weekend bez dzieci! I to jeszcze w naszym ukochanym Stambule!<br/>
+Co tu dużo mówić, było wspaniale! Od świetnej kawy i wyśmienitego tureckiego jedzenia, przez oszałamiające stambulskie zabytki, spontaniczną wizytę u fryzjera, po niesamowity klimat tego niezwykłego miasta.<br/>
+Bo w końcu jak to mówią - niektóre miasta to za dużo na jeden kontynent!
