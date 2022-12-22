@@ -1,0 +1,41 @@
+---
+title:  "19.01.11-29 WIETNAM"
+subtitle: "Zima w styczniowym Wietnamie"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/wietnam.jpg"
+date:   2019-01-11 05:12:12
+end_date:   2019-01-29 12:12:12
+photos_path: "img/wietnam"
+images:
+  - "DSC_0018.JPG"
+  - "DSC_0134.JPG"
+  - "DSC_0147.JPG"
+  - "DSC_0148.JPG"
+  - "DSC_0149.JPG"
+  - "DSC_0281.JPG"
+  - "DSC_0282.JPG"
+  - "DSC_0283.JPG"
+  - "DSC_0284.JPG"
+  - "DSC_0311.JPG"
+  - "DSC_0356.JPG"
+  - "DSC_0592.JPG"
+  - "DSC_1830.JPG"
+  - "DSC_1862.JPG"
+  - "DSC_1895.JPG"
+  - "DSC_2108.JPG"
+  - "DSC_2596.JPG"
+  - "wietnam.jpg"
+---
+🇻🇳 **Wietnam**<br/>
+**<sub><sup>Ho Chi Minh City - Cu Chi Tunnels - Hanoi - Sa Pa - Phan Xi Păng - Hai Phong - Hội An - My Son - Danang - Hue</sup></sub>**<br/>
+<br/>
+⛰️ **Góry**<br/>
+<sub><sup>**Korona Gór Świata:** Phan Xi Păng, 3147 m. n. p. m., Hoàng Liên Sơn</sup></sub><br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia ze styczniowego wyjazdu do Wietnamu znajdziecie <a href="https://photos.app.goo.gl/W2mctQXLHxZTBti5A">tutaj</a>**</sup></sub>
+
+Wyjazd w ciepłe strony to najlepszy pomysł na ponurą końcówkę stycznia! Tym razem na cel obraliśmy azjatycki Wietnam.<br/>
+Najpierw przywitało nas skąpane w słońcu Ho Chi Minh City razem z ciekawymi tunelami Cu Chi. Na północy, w Hanoi i Hai Phong było już trochę chłodniej, ale to w Sa Pa spotkaliśmy mgłę i chłód. Nie popsuło nam to zbytnio humorów, bo za to zdobyliśmy oboje nawyższy szczyt Indochin - Phan Xi Păng.<br/>
+Szyki popsuło nam jednak przeziębienie Róży - regenerowaliśmy się w cudownym, najpiękniejszym chyba w Wietnamie, Hội An. Nie zapomnieliśmy też o zabytkach wietnamskie kultury, My Son i Hue. A na koniec szukaliśmy najlepszej kawy w Ho Chi Minh City.
