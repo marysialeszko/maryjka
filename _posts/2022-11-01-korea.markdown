@@ -1,0 +1,43 @@
+---
+title:  "22.11.01-20 KOREA POŁUDNIOWA"
+subtitle: "Kolorowa jesień w Korei Południowej"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/korea.jpg"
+date:   2022-11-01 05:12:12
+end_date:   2022-11-20 12:12:12
+photos_path: "img/korea"
+images:
+  - "DSC07206.JPG"
+  - "DSC07287.JPG"
+  - "DSC07464.JPG"
+  - "DSC07502.JPG"
+  - "DSC07515.JPG"
+  - "DSC07649.JPG"
+  - "DSC07669.JPG"
+  - "DSC07677.JPG"
+  - "DSC07717.JPG"
+  - "DSC07746.JPG"
+  - "DSC07864.JPG"
+  - "DSC07932.JPG"
+  - "DSC07960.JPG"
+  - "DSC07982.JPG"
+  - "DSC07995.JPG"
+  - "DSC08009.JPG"
+  - "korea.jpg"
+  - "DSC08050.JPG"
+  - "DSC08082.JPG"
+
+---
+🇰🇷 **Korea Południowa**<br/>
+**<sub><sup>Seul - Namhansanseong - Jeju - Busan - Gyeongju - Bulguksa - Yangdong - Daegu - Haeinsa - Jeonju - Seul - Hwaseong - DMZ</sup></sub>**<br/>
+<br/>
+⛰️ **Góry**<br/>
+<sub><sup>**Korona Gór Świata:** Halla-san, 1950 m. n. p. m., Jeju</sup></sub><br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia ze jesiennej wyprawy do Korei Południowej znajdziecie <a href="https://photos.app.goo.gl/5WbX3xeMeVwdbAXC9">tutaj</a>**</sup></sub>
+
+Nie wiem czy widziałam bardziej malowniczą jesień niż tę w Korei Południowej.<br/>
+Kolory drzew, słońce i piękne krajobrazy nas zachwyciły. Do tego górzystość i łatwa dostępność szczytów w tym kraju sprawiły, że spędziliśmy na szlaku niejeden dzień. Do tego absolutnie zachwyciliśmy się koreańską bogatą kuchnią i wszechobecnym kimchi.<br/>
+Przyznacie, że brzmi to jak naprawdę udany wyjazd!
