@@ -24,7 +24,6 @@ images:
   - "DSC07982.JPG"
   - "DSC07995.JPG"
   - "DSC08009.JPG"
-  - "korea.jpg"
   - "DSC08050.JPG"
   - "DSC08082.JPG"
 
