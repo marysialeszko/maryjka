@@ -1,0 +1,32 @@
+---
+title:  "23.09.09 DOLOMITY"
+subtitle: "Krótki wypad w Dolomity"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/dolomity.jpg"
+date:   2023-09-09 05:12:12
+end_date:   2021-09-16 12:12:12
+photos_path: "img/dolomity"
+images:
+  - "DSC00410.JPG"
+  - "DSC00415.JPG"
+  - "DSC00427.JPG"
+  - "DSC00431.JPG"
+  - "DSC00436.JPG"
+  - "DSC00443.JPG"
+  - "DSC00457.JPG"
+  - "DSC00539.JPG"
+  - "DSC00561.JPG"
+  - "dolomity.jpg"
+  - "DSC00592.JPG"
+  - "DSC00595.JPG"
+
+---
+🌍 **Miejsca**<br/>
+<sub><sup>🇦🇹 **Austria:** Melk - Werfen</sup></sub><br/>
+<sub><sup>🇮🇹 **Włochy:** Bolzano - Rabbi - Tre Cime di Lavaredo</sup></sub><br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z wypadu w Dolomity znajdziecie <a href="https://photos.app.goo.gl/1WcSMeXGYXJVuxQ38">tutaj</a>**</sup></sub>
+
+To był krótki, nieco pracujący wypad, za to obfitujący w odwiedzone przez nas piękne miejsca. A ukoronowaniem był trek pętlą wokół Tre Cime di Lavaredo.
