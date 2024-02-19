@@ -1,0 +1,49 @@
+---
+title:  "23.11.18-12.11 MALAJE"
+subtitle: "Prawie miesiąc w kolonialnych tropikach Azji Południowo-Wschodniej"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/malaje.jpg"
+date:   2023-11-18 05:12:12
+end_date:   2023-12-11 12:12:12
+photos_path: "img/malaje"
+images:
+  - "DSC00840.JPG"
+  - "DSC00892.JPG"
+  - "DSC01001.JPG"
+  - "DSC01010.JPG"
+  - "DSC01030.JPG"
+  - "DSC01111.JPG"
+  - "DSC01506.JPG"
+  - "DSC01586.JPG"
+  - "DSC01602.JPG"
+  - "DSC01644.JPG"
+  - "DSC01669.JPG"
+  - "DSC01717.JPG"
+  - "DSC01766.JPG"
+  - "DSC02024.JPG"
+  - "DSC02057.JPG"
+  - "DSC02212.JPG"
+  - "DSC02262.JPG"
+  - "DSC02295.JPG"
+  - "DSC02314.JPG"
+  - "DSC02711.JPG"
+  - "DSC02743.JPG"
+  - "DSC02811.JPG"
+  - "DSC02842.JPG"
+  - "DSC03063.JPG"
+
+---
+🌍 **Miejsca**<br/>
+<sub><sup>🇸🇬 **Singapur:** Singapur</sup></sub><br/>
+<sub><sup>🇲🇾 **Malezja:** Melaka - Kuala Lumpur - Ipoh - Cameron Highlands - Lenggong - George Town - Penang</sup></sub><br/>
+<sub><sup>🇹🇭 **Tajlandia:** Chiang Rai - Doi Inthanon - Chiang Mai - Mae Win</sup></sub><br/>
+<br/>
+⛰️ **Góry**<br/>
+<sub><sup>**Korona Gór Świata:** Singapur: Bukit Timah, 163 m. n. p. m., Bukit Timah</sup></sub><br/>
+<sub><sup>**Korona Gór Świata:** Tajlandia: Doi Inthanon, 2565 m. n. p. m., Tanen Taunggyi</sup></sub><br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z malajskiego wyjazdu znajdziecie <a href="https://photos.app.goo.gl/XLoSg6pHL6ugWVj96">tutaj</a>**</sup></sub>
+
+Azja nigdy chyba nam się nie znudzi. Tym razem postawiliśmy na Singapur, kontynentalną część Malezji i północną Tajlandię. Fascynująca mieszanka kultur, wspaniała kuchnia, cudowna pogoda i orientalne krajobrazy. Do tego duża łatwość podróżowania, mimo, że był to nasz pierwszy daleki wypad w piątkę. Było wspaniale!
