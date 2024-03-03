@@ -1,0 +1,24 @@
+---
+title:  "18.11.16-18 ST LOUIS"
+subtitle: "Weekendowa wyprawa do bramy Dzikiego Zachodu"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/st_louis.jpg"
+date:   2018-11-16 12:12:12
+end_date:   2018-11-18 12:12:12
+photos_path: "img/st_louis"
+images:
+  - "DSC_0859.JPG"
+  - "DSC_0887.JPG"
+  - "DSC_0983.JPG"
+  - "DSC_1041.JPG"
+  - "st_louis.jpg"
+  - "DSC_1269.JPG"
+---
+🇺🇸 **Stany Zjednoczone**<br/>
+**<sub><sup>St. Louis - Cahokia Mouds</sup></sub>**<br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z weekendu w St. Louis znajdziecie <a href="https://photos.app.goo.gl/FjurujNc5sTMHSL67">tutaj</a>**</sup></sub>
+
+Służbowy wyjazd do Chicago był świetnym pretekstem do weekendowego wypadu do St. Louis, słynnego jako brama na Dziki Zachód. Odwiedziliśmy także unescowe prekolumbijskie wzgórza Cahokia. Bardzo udany wypad! 
