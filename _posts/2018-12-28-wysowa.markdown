@@ -1,0 +1,26 @@
+---
+title:  "18.12.28-19.01.01 WYSOWA"
+subtitle: "Sylwester w zimowym zakątku Beskidu Niskiego"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/wysowa_sylwestrowa.jpg"
+date:   2018-12-28 12:12:12
+end_date:   2019-01-01 12:12:12
+photos_path: "img/wysowa_sylwestrowa"
+images:
+  - "wysowa_sylwestrowa.jpg"
+  - "DSC_4943.JPG"
+  - "DSC_4975.JPG"
+  - "DSC_5030.JPG"
+  - "DSC_6411.JPG"
+  - "DSC_6475.JPG"
+
+
+---
+🇵🇱 **Polska**<br/>
+**<sub><sup>Wysowa - Kwiatoń - Skwirtne</sup></sub>**<br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z Sylwestra w Wysowej znajdziecie <a href="https://photos.app.goo.gl/MjSCWeMJo9xubYMK9">tutaj</a>**</sup></sub>
+
+Odkryliśmy miejsce z unikalnym mikroklimatem - w beskidzkiej Wysowej panuje zima i jest śnieg, nawet gdy wszędzie indziej jest szaro i buro! Czyż to nie idealne miejsce na spędzenie Sylwestra?
