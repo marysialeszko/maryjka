@@ -1,0 +1,26 @@
+---
+title:  "11.12.27-31 MOŁDAWIA"
+subtitle: "Sylwester w Mołdawii"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/moldawia.jpg"
+date:   2011-12-27 05:12:12
+end_date:   2011-12-31 12:12:12
+photos_path: "img/moldawia"
+images:
+  - "DSC06315.JPG"
+  - "DSC06400.JPG"
+  - "DSC06480.JPG"
+  - "DSC06509.JPG"
+  - "DSC06521.JPG"
+  - "moldawia.jpg"
+
+---
+🌍 **Miejsca**<br/>
+<sub><sup>🇺🇦 **Ukraina:** Lwów - Odessa</sup></sub><br/>
+<sub><sup>🇲🇩 **Mołdawia:** Kiszyniów - Orhei - Tiraspol<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z sylwestrowego wyjazdu do Mołdawii znajdziecie <a href="https://goo.gl/photos/hswTvtij4PKd59gK7">tutaj</a>**</sup></sub>
+
+Kilka dni wolnego? Brzmi jak wyjazd do najbardziej tajemniczego kraju Europy!<br/>
+Takim mianem jest czasem określana Mołdawia i chyba nie bez powodu. Nie tak łatwo tam trafić, nie tak łatwo się poruszać, a jeszcze trudniej odwiedzić przedziwne Naddniestrze. Ale czy warto? Zdecydowanie tak!
