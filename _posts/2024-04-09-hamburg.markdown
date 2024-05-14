@@ -1,0 +1,25 @@
+---
+title:  "24.04.09-10 HAMBURG"
+subtitle: "Półtora dnia w Hamburgu z Dzidziusiem"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/hamburg.jpg"
+date:   2024-04-09 05:12:12
+end_date:   2024-04-10 12:12:12
+photos_path: "img/hamburg"
+images:
+  - "DSC04320.JPG"
+  - "hamburg.jpg"
+  - "DSC04384.JPG"
+  - "DSC04403.JPG"
+  - "DSC04408.JPG"
+  - "DSC04413.JPG"
+---
+🇩🇪 **Niemcy**<br/>
+**<sub><sup>Hamburg</sup></sub>**<br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z krótkiego wypadu do Hamburga z Dzidziusiem znajdziecie <a href="https://photos.app.goo.gl/iF3N4bgTtB8Y3kwRA">tutaj</a>**</sup></sub>
+
+Mój urlop macierzyński dobiegał końca, prosiło się więc o jakiś krótki wypad na jego zwieńczenie. Padło na niedaleki, choć niepoznany jeszcze przez mnie Hamburg<br/>
+Pogoda może nie była wymarzona, ale i tak dzielnica spichlerzy, portowe położenie i przyjemna atmosfera miasta mnie zachwyciły. Hamburg to zdecydowanie dobre miejsce na krótki wypad! 
