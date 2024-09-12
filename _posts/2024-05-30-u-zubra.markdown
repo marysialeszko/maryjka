@@ -1,0 +1,25 @@
+---
+title:  "24.05.30-06.02 U ŻUBRA"
+subtitle: "Czerwcówka na Podlasiu"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/zubr.jpg"
+date:   2024-05-30 05:12:12
+end_date:   2024-06-02 12:12:12
+photos_path: "img/zubr"
+images:
+  - "zubr.jpg"
+  - "DSC05405.jpg"
+  - "DSC05436.JPG"
+  - "DSC05443.JPG"
+  - "DSC05516.JPG"
+  - "DSC05654.JPG"
+  - 
+---
+🇵🇱 **Polska**<br/>
+**<sub><sup>Tykocin - Białowieża - Kraina Otwartych Okiennic - Hajnówka</sup></sub>**<br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z długiego weekendu na Podlasiu znajdziecie <a href="https://photos.app.goo.gl/dSRHAzXLcGxfWDVF8">tutaj</a>**</sup></sub>
+
+Długi czerwcowy weekend był idealną okazją do odwiedzenia odległego od nas Podlasia. Spełniliśmy tam kilka marzeń - wędrowaliśmy Puszczą wpisaną na listę Unesco, jechaliśmy rowerowymi drezynami, obejrzeliśmy żubra i puszczaliśmy latawce na łące. Było super!
