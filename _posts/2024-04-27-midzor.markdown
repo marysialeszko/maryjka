@@ -21,9 +21,9 @@ images:
 ---
 🌍 **Miejsca**<br/>
 <sub><sup>🇭🇺 **Węgry:** Holloko - Budapeszt</sup></sub><br/>
-<sub><sup>🇷🇸 **Serbia:** Belgrad - Stara Płanina - Gamzigrad - Golubac<br/>
-<sub><sup>🇷🇴 **Rumunia:** Timisoara<br/>
-<sub><sup>🇸🇰 **Słowacja:** Bardiów<br/>
+<sub><sup>🇷🇸 **Serbia:** Belgrad - Stara Płanina - Gamzigrad - Golubac</sup></sub><br/>
+<sub><sup>🇷🇴 **Rumunia:** Timisoara</sup></sub><br/>
+<sub><sup>🇸🇰 **Słowacja:** Bardiów</sup></sub><br/>
 ⛰️ **Góry**<br/>
 <sub><sup>**Korona Gór Świata:** Serbia: Midżur, 2169 m. n. p. m., Stara Płanina</sup></sub><br/>
 <br/>
