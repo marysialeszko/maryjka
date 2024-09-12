@@ -9,12 +9,11 @@ end_date:   2024-06-02 12:12:12
 photos_path: "img/zubr"
 images:
   - "zubr.jpg"
-  - "DSC05405.jpg"
+  - "DSC05405.JPG"
   - "DSC05436.JPG"
   - "DSC05443.JPG"
   - "DSC05516.JPG"
   - "DSC05654.JPG"
-  - 
 ---
 🇵🇱 **Polska**<br/>
 **<sub><sup>Tykocin - Białowieża - Kraina Otwartych Okiennic - Hajnówka</sup></sub>**<br/>
