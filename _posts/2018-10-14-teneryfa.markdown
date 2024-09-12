@@ -1,0 +1,31 @@
+---
+title:  "18.10.14-21 TENERYFA"
+subtitle: "Tydzień na wspaniałej Teneryfie"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/teneryfa.jpg"
+date:   2018-10-14 05:12:12
+end_date:   2018-10-21 12:12:12
+photos_path: "img/teneryfa"
+images:
+  - "DSC_0013.JPG"
+  - "DSC_0107.JPG"
+  - "DSC_0146.JPG"
+  - "teneryfa.jpg"
+  - "DSC_0489.JPG"
+  - "DSC_0574.JPG"
+  - "DSC_0614.JPG"
+  - "DSC_0651.JPG"
+  - "DSC_0670.JPG"
+
+
+---
+🌍 **Miejsca**<br/>
+<sub><sup>🇪🇸 **Teneryfa:** El Médano - Taganana - San Cristóbal de La Laguna - Teida - Masca - Garachico</sup></sub><br/>
+⛰️ **Góry**<br/>
+<sub><sup>**Korona Gór Świata:** Hiszpania: Teide, 3715 m. n. p. m., Teneryfa</sup></sub><br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z wyjazdu na Teneryfę znajdziecie <a href="https://photos.app.goo.gl/4VN6fM1bpYATyJA56">tutaj</a>**</sup></sub>
+
+Jesień to idealny czas na wyjazdy! Tym razem wybraliśmy nieznane dla nas wcześniej Wyspy Kanaryjskie i największą z nich, Teneryfę. Posezonowy brak tłumów, doskonała pogoda, wspaniała kuchnia, różnorodność wyspy i doborowe towarzystwo - to nie mogło się nie udać!
