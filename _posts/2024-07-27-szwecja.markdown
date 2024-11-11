@@ -1,0 +1,42 @@
+---
+title:  "24.07.27-08.09 POŁUDNIOWA SZWECJA"
+subtitle: "Autem po cudownych krajobrazach południowej Szwecji"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/szwecja.jpg"
+date:   2024-07-27 05:12:12
+end_date:   2024-08-09 12:12:12
+photos_path: "img/szwecja"
+images:
+  - "DSC06031.JPG"
+  - "DSC06102.JPG"
+  - "DSC06144.JPG"
+  - "DSC06220.JPG"
+  - "DSC06330.JPG"
+  - "DSC06414.JPG"
+  - "DSC06483.JPG"
+  - "DSC06489.JPG"
+  - "DSC06494.JPG"
+  - "DSC06503.JPG"
+  - "DSC06506.JPG"
+  - "DSC06519.JPG"
+  - "DSC06535.JPG"
+  - "DSC06557.JPG"
+  - "DSC06565.JPG"
+  - "DSC06629.JPG"
+  - "DSC06671.JPG"
+  - "DSC06746.JPG"
+  - "DSC07015.JPG"
+  - "DSC07045.JPG"
+  - "DSC07118.JPG"
+
+---
+🌍 **Miejsca**<br/>
+<sub><sup>🇩🇪 **Niemcy:** Neuruppin - Dannevirke</sup></sub><br/>
+<sub><sup>🇩🇰 **Dania:** Odense</sup></sub><br/>
+<sub><sup>🇸🇪 **Szwecja:** Malmö - Foteviken - Lund - Ystad - Ales Stenar - Stenshuvud - Kalmar - Olandia - Vimmerby - Kleva - Linköping - Målilla - Karlskrona</sup></sub><br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia ze szwedzkiej wyprawy znajdziecie <a href="https://photos.app.goo.gl/hPiKUwdDrHKt4bHe6">tutaj</a>**</sup></sub>
+
+Jest coś w tym, że lato w Skandynawii jest wspaniałe - mieliśmy okazję tego doświadczyć podczas naszego prawie 2 tygodniowego wypadu do południowej Szwecji. Wspaniała natura, piękne miasteczka z kolorowymi domami, przyjaźni ludzie i angażujące atrakcje dla dzieci. A wszystko to zwiedzaliśmy śpiąc pod namiotem. Lato w pełni!
