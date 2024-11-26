@@ -1,0 +1,42 @@
+---
+title:  "18.04.13-05.28 MEKSYK"
+subtitle: "Wiosna w kolorowym Meksyku"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/meksyk.jpg"
+date:   2018-04-13 05:12:12
+end_date:   2018-05-28 12:12:12
+photos_path: "img/meksyk"
+images:
+  - "DSC_0124.JPG"
+  - "DSC_0214.JPG"
+  - "DSC_0295.JPG"
+  - "DSC_0479.JPG"
+  - "DSC_0594.JPG"
+  - "DSC_0704.JPG"
+  - "meksyk.jpg"
+  - "DSC_0789.JPG"
+  - "DSC_0848.JPG"
+  - "DSC_1017.JPG"
+  - "DSC_1209.JPG"
+  - "DSC_1233.JPG"
+  - "DSC_0465.JPG"
+  - "DSC_1689.JPG"
+  - "DSC_1778.JPG"
+  - "DSC_1857.JPG"
+  - "DSC_2153.JPG"
+  - "DSC_2469.JPG"
+  - "DSC_2544.JPG"
+  - "DSC_2571.JPG"
+  - "DSC_2659.JPG"
+
+---
+🇲🇽 **Meksyk**<br/>
+**<sub><sup>Mexico - Teotihuacan - Puebla - Tehuacán - Oaxaca - Monte Alban - Mitla - Guadalajara - Tequila - Guanajuato - San Miguel de Allende - Chichén Itzá - Mérida - Uxmal - Veracruz - Tlacotalpan - Mexico</sup></sub>**<br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z długiej wyprawy do Meksyku znajdziecie <a href="https://photos.app.goo.gl/S2xfFferJLfX3Eqg6">tutaj</a>**</sup></sub>
+
+To nasz najdłuższy wyjazd rodzinny - aż 6 tygodni w kolorowym, roztańczonym, głośnym Meksyku!<br/>
+Zobaczyliśmy mnóstwo miejsc, i takich mocno turystycznych i tym spoza głównego nurtu. Zjedliśmy chyba każdą potrawę z meksykańskiej kuchni, a nawet udało nam się spróbować tequili w Tequili.<br/>
+Było trochę pracy, był odpoczynek, było zwiedzanie i dużo dobrego rodzinnego czasu!
