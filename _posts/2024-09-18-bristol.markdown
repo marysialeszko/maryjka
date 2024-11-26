@@ -1,0 +1,25 @@
+---
+title:  "24.09.18-20 BRISTOL I BATH"
+subtitle: "Służbowe 3 dni w Bristolu i okolicach"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/bristol.jpg"
+date:   2024-09-18 05:12:12
+end_date:   2024-09-20 12:12:12
+photos_path: "img/bristol"
+images:
+  - "IMG_2771.jpg"
+  - "IMG_2782.jpg"
+  - "IMG_2858.jpg"
+  - "IMG_2880.jpg"
+  - "IMG_2886.jpg"
+  - "bristol.jpg"
+
+---
+🌍 **Miejsca**<br/>
+<sub><sup>🏴󠁧󠁢󠁥󠁮󠁧󠁿 **Anglia:** Bristol - Bath</sup></sub><br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z szybkiego wyjazdu do Bristolu i Bath znajdziecie <a href="https://photos.app.goo.gl/cozA4gLNN4P4ihMt8">tutaj</a>**</sup></sub>
+
+Pierwszy wyjazd służbowy od dawna, a do tego w zupełnie nowe dla mnie miejsce - do Bristolu. Jeśli dodać do tego wypad do unescowego Bath, przepiękną pogodę i dobrze wykorzystany czas, to wyjdzie z tego bardzo udany wyjazd!
