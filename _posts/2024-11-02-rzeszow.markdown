@@ -1,0 +1,25 @@
+---
+title:  "24.11.02-03 RZESZÓW Z WERONIKĄ"
+subtitle: "Dziewczyński weekend w mroźnym Rzeszowie"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/rzeszow.jpg"
+date:   2024-11-02 05:12:12
+end_date:   2024-11-03 12:12:12
+photos_path: "img/rzeszow"
+images:
+  - "IMG_4107.jpg"
+  - "IMG_4120.jpg"
+  - "IMG_4130.jpg"
+  - "IMG_4160.jpg"
+  - "rzeszow.jpg"
+  - "IMG_4279.jpg"
+
+---
+🌍 **Miejsca**<br/>
+<sub><sup>🇵🇱 **Polska:** Rzeszów</sup></sub><br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z dziewczyńskiego weekendu w Rzeszowie znajdziecie <a href="https://photos.app.goo.gl/9dy6biBV1xdAPYJB9">tutaj</a>**</sup></sub>
+
+Nasz pierwszy dziewczyński weekend z Weroniką! Wybrałyśmy się do Rzeszowa - było mroźno, wesoło i bardzo smacznie! Trochę zwiedzania, trochę zabawy i sporo słodkości. Inicjatywa do powtórzenia!
