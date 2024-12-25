@@ -1,0 +1,25 @@
+---
+title:  "24.11.09-10 WROCŁAW Z RÓŻĄ"
+subtitle: "Dziewczyński weekend w listopadowym Wrocławiu"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/wroclaw.jpg"
+date:   2024-11-09 05:12:12
+end_date:   2024-11-10 12:12:12
+photos_path: "img/wroclaw"
+images:
+  - "wroclaw.jpg"
+  - "IMG_4407.jpg"
+  - "IMG_4453.jpg"
+  - "IMG_4487.jpg"
+  - "IMG_4539.jpg"
+  - "IMG_4587.jpg"
+
+---
+🌍 **Miejsca**<br/>
+<sub><sup>🇵🇱 **Polska:** Wrocław</sup></sub><br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z dziewczyńskiego weekendu we Wrocławiu znajdziecie <a href="https://photos.app.goo.gl/8F1BWAiq2x2E4bHH8">tutaj</a>**</sup></sub>
+
+Drugi dziewczyński weekend z Różą! Tym razem wybrałyśmy się pociągiem do Wrocławia. A jeśli miałabym podsumować tę wyprawę jednym słowem, byłoby to bez wątpienia słowo 'krasnal' - cały weekend minął na ich poszukiwaniu!
