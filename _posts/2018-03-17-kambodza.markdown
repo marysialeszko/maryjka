@@ -1,0 +1,34 @@
+---
+title:  "18.03.17-25 KAMBODŻA"
+subtitle: "Ponad tydzień w niezwykłej Kambodży"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/kambodza.jpg"
+date:   2018-03-17 05:12:12
+end_date:   2018-03-25 12:12:12
+photos_path: "img/kambodza"
+images:
+  - "DSC_0132.JPG"
+  - "DSC_0148.JPG"
+  - "DSC_0191.JPG"
+  - "DSC_0271.JPG"
+  - "DSC_0335.JPG"
+  - "DSC_0368.JPG"
+  - "DSC_0448.JPG"
+  - "DSC_0483.JPG"
+  - "DSC_0705.JPG"
+  - "DSC_0720.JPG"
+  - "DSC_0758.JPG"
+  - "kambodza.jpg"
+  - "DSC_0968.JPG"
+  - "DSC_0012.JPG"
+  - "DSC_0044.JPG"
+
+---
+🌍 **Miejsca**<br/>
+<sub><sup>🇰🇭 **Kambodża:** Siem Reap - Angkor Wat - Tonle - Phnom Penh</sup></sub><br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z pobytu w Kambodży znajdziecie <a href="https://photos.app.goo.gl/zMilm9jBPgVkBgS12">tutaj</a>**</sup></sub>
+
+Z pięknej Tajlandii odbiliśmy do Kambodży. Zaczęliśmy od turystycznego Siem Reap i pobliskiego niezwykłego kompleksu Angkor Wat, którym byliśmy absolutnie oczarowani. Przepłynęliśmy się też po jeziorze Tonle, podziwiając domy na palach. A wycieczkę zakończyliśmy chłonąc kambodżańską kulturę i historię w stołecznym Phnom  Penh. Było wspaniale!
