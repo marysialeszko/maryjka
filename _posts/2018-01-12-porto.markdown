@@ -1,0 +1,25 @@
+---
+title:  "18.01.12-15 PORTO"
+subtitle: "Styczniowa weekendowa ucieczkado Porto"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/porto.jpg"
+date:   2018-01-12 05:12:12
+end_date:   2018-01-15 12:12:12
+photos_path: "img/porto"
+images:
+  - "DSC_0267.JPG"
+  - "DSC_0333.JPG"
+  - "porto.jpg"
+  - "DSC_0452.JPG"
+  - "DSC_0798.JPG"
+  - "DSC_0835.JPG"
+
+---
+🌍 **Miejsca**<br/>
+<sub><sup>🇵🇹 **Portugalia:** Porto - Vila Nova de Gaia</sup></sub><br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z weekendu w Porto znajdziecie <a href="https://photos.app.goo.gl/bKDTHpPgcwhkgiEi1">tutaj</a>**</sup></sub>
+
+Z tęsknoty do podróży i słońca wybraliśmy się w mroźny styczniowy weekend do Porto. I nie zawiedliśmy się! Mimo, że temperatury nie były oszałamiające, wszystko inne był wspaniałe! Było trochę słońca, piękna architektura, południowy klimat, pyszna kuchnia... No i oszałamiające azulejos i cudowne, cudowne pasteis de nata. Weekend udany!
