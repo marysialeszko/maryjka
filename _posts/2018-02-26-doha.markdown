@@ -1,0 +1,22 @@
+---
+title:  "18.02.26 DOHA"
+subtitle: "Dobrze wykorzystana długa przesiadka w Dosze"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/doha.jpg"
+date:   2018-02-26 05:12:12
+end_date:   2018-02-26 12:13:12
+photos_path: "img/doha"
+images:
+  - "DSC_0904.JPG"
+  - "DSC_0948.JPG"
+  - "doha.jpg"
+
+---
+🌍 **Miejsca**<br/>
+<sub><sup>🇶🇦 **Katar:** Doha</sup></sub><br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z wyjazdu odwiedzin w Dosze znajdziecie <a href="https://photos.app.goo.gl/oyXn9XKD2Hd3yeTF2">tutaj</a>**</sup></sub>
+
+W Katarze mieliśmy długą przesiadkę, którą bardzo dobrze wykorzystaliśmy na poznanie jego stolicy - zwiedziliśmy to schludne miasto, dobrze zjedliśmy, odwiedziliśmy piękne Muzeum Sztuki Islamskiej i cieszyliśmy się ciepłem w zimie!
