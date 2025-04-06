@@ -1,0 +1,25 @@
+---
+title:  "17.12.28-18.01.01 ZIMOWY BESKID NISKI"
+subtitle: "Sylwester w zimowym Beskidzie Niskim"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/rymanow.jpg"
+date:   2017-12-28 12:12:12
+end_date:   2018-01-01 12:12:12
+photos_path: "img/rymanow"
+images:
+  - "rymanow.jpg"
+  - "DSC_0039.JPG"
+  - "DSC_0050.JPG"
+  - "DSC_0061.JPG"
+  - "DSC_0105.JPG"
+  - "IMG_8069.JPG"
+
+---
+🇵🇱 **Polska**<br/>
+**<sub><sup>Rymanów Zdrój - Bieszczady - Cergowa</sup></sub>**<br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z Sylwestra w Rymanowie znajdziecie <a href="https://photos.app.goo.gl/F5sRRilSR29n0xdN2">tutaj</a>**</sup></sub>
+
+Pierwszy Sylwester Róży! Spędziliśmy go w gronie przyjaciół w mroźnym Beskidzie Niskim, w Rymanowie Zdroju. Było zimowo, górsko i bardzo przyjemnie!
