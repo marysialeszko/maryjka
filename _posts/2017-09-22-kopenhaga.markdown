@@ -21,5 +21,5 @@ images:
 📸 **Zdjęcia**<br/>
 <sub><sup>**Zdjęcia z weekendowej wycieczki do Kopenhagi znajdziecie <a href="https://photos.app.goo.gl/n8OahWFcQFXVarLe2">tutaj</a>**</sup></sub>
 
-Jakoś tak się składa, że z naszymi odwiedzinami podążamy szlakiem przeprowadzek Kasi. Tak musiało być i tym razem - wybraliśmy się całą rodzinką na weekend do stolicy Danii!</br>
+Jakoś tak się składa, że z naszymi odwiedzinami podążamy szlakiem przeprowadzek Kasi. Tak musiało być i tym razem - wybraliśmy się całą rodzinką na weekend do stolicy Danii!<br/>
 Spędziliśmy tam wspaniały czas, pełen dobrych rozmów, świetnego jedzenia i zachwytem duńską estetyką. Udany weekend!
