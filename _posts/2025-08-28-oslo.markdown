@@ -1,0 +1,29 @@
+---
+title:  "25.08.28-30 OSLO Z RÓŻĄ"
+subtitle: "Wycieczka Mamy i córki do norweskiego Oslo"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/oslo.jpg"
+date:   2025-08-28 05:12:12
+photos_path: "img/oslo"
+images:
+  - "DSC02096.JPG"
+  - "DSC02100.JPG"
+  - "DSC02105.JPG"
+  - "DSC02118.JPG"
+  - "DSC02125.JPG"
+  - "DSC02153.JPG"
+  - "oslo.jpg"
+  - "DSC02189.JPG"
+  - "DSC02230.JPG"
+  - "DSC02252.JPG"
+
+---
+🇳🇴 **Norwegia**<br/>
+**<sub><sup>Oslo</sup></sub>**<br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z dziewczyńskiej wycieczki do Oslo znajdziecie <a href="https://photos.app.goo.gl/rRbQBvcuhTHHvzqQ9">tutaj</a>**</sup></sub>
+
+To nasza tradycja - coroczne wyjazdy Róży i Mamy. Tym razem dłużej niż zwykle, bo na dwie noce.<br/>
+Wybór padł na norweską stolicę, Oslo. To nowy kraj dla Róży, a dla mnie nieodwiedzona jeszcze stolica. Mówią, że 3 dni w Oslo to aż nadto. Ale ja tam bym jeszcze wróciła!
