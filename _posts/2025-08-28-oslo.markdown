@@ -8,7 +8,6 @@ date:   2025-08-28 05:12:12
 photos_path: "img/oslo"
 images:
   - "DSC02096.JPG"
-  - "DSC02100.JPG"
   - "DSC02105.JPG"
   - "DSC02118.JPG"
   - "DSC02125.JPG"
