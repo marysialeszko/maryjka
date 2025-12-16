@@ -1,0 +1,28 @@
+---
+title:  "25.11.23-25 JARMARK W KOLONII"
+subtitle: "Wycieczka Wero i Mamy na jarmark świąteczny w Kolonii"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/kolonia.jpg"
+date:   2025-11-23 05:12:12
+photos_path: "img/kolonia"
+images:
+  - "DSC03406.JPG"
+  - "DSC03428.JPG"
+  - "kolonia.jpg"
+  - "DSC03467.JPG"
+  - "DSC03473.JPG"
+  - "DSC03503.JPG"
+  - "DSC03524.JPG"
+  - "DSC03548.JPG"
+  - "DSC03554.JPG"
+
+---
+🇩🇪 **Niemcy**<br/>
+**<sub><sup>Kolonia - Brühl - Akwizgran</sup></sub>**<br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia ze świątecznej wycieczki na jarmark znajdziecie <a href="https://photos.app.goo.gl/k4b7PtGHpHBPszVU7">tutaj</a>**</sup></sub>
+
+I ostatnia tegoroczna dziewczyńska wyprawa - poleciałyśmy z Weroniką do świątecznej Kolonii w Niemczech.<br/>
+Zaliczyłyśmy chyba wszystko - wielki kolorowy piernik, wspaniałe karolińskie świątynie, grzane wino, a nawet pierwszy, szybko topiący się śnieg!
