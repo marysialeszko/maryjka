@@ -1,0 +1,46 @@
+---
+title:  "25.06.28-07.12 KORSYKA I PROWANSJA"
+subtitle: "Wakacyjny wyjazd na Korsykę i kilka dni w Prowansji"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/korsyka.jpg"
+date:   2025-06-28 05:12:12
+end_date:   2025-07-12 12:12:12
+photos_path: "img/korsyka"
+images:
+  - "DSC01016.JPG"
+  - "DSC01033.JPG"
+  - "DSC01036.JPG"
+  - "DSC01051.JPG"
+  - "DSC01092.JPG"
+  - "DSC01102.JPG"
+  - "DSC01117.JPG"
+  - "DSC01140.JPG"
+  - "DSC01187.JPG"
+  - "DSC01200.JPG"
+  - "DSC01223.JPG"
+  - "DSC01307.JPG"
+  - "DSC01324.JPG"
+  - "DSC01345.JPG"
+  - "DSC01407.JPG"
+  - "DSC01418.JPG"
+  - "DSC01435.JPG"
+  - "DSC01438.JPG"
+  - "DSC01507.JPG"
+  - "DSC01508.JPG"
+  - "DSC01513.JPG"
+
+---
+🌍 **Miejsca**<br/>
+<sub><sup>🇦🇹 **Austria:** Wiedeń</sup></sub><br/>
+<sub><sup>🇮🇹 **Włochy:** Bolonia - Cremona</sup></sub><br/>
+<sub><sup>🇫🇷 **Francja:** Bastia - Erbalunga - Corte - Calanques de Piana - Sartène - Bonifacio - Ajaccio - Toulon - Vallensole - Moustiers-Sainte-Marie - Verdon - Grasse</sup></sub><br/>
+<sub><sup>🇲🇨 **Monako:** Monako</sup></sub><br/>
+<br/>
+⛰️ **Góry**<br/>
+<sub><sup>**Korona Gór Świata:** Monako: Chemin des Révoires, 163 m. n. p. m., Alpy Nadmorskie</sup></sub><br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z wyjazdu na Korsykę znajdziecie <a href="https://photos.app.goo.gl/7tuVSV4nUBH4XsS89">tutaj</a>**</sup></sub>
+
+Południowe, śródziemnomorskie morze, wyśmienite francuskie jedzenie, trochę relaksu na plażach, trochę górskiego klimatu - czyż to nie przepis na wspaniały wyjazd? Spędziliśmy 2 tygodnie na południu Francji. Pretekstem był ultramaraton Rafała, ale poza kibicowaniem atrakcji było sporo. Do tego namówiliśmy ekipę na spanie na kempingach! A na koniec pobyt w cudownej, lipcowej Prowansji. Było wspaniale!
