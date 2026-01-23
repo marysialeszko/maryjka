@@ -1,0 +1,37 @@
+---
+title:  "17.08.06-13 LIGURIA, TOSKANIA I FRIULI"
+subtitle: "Pierwszy wyjazd Róży i tydzień w najpiękniejszych zakątkach Włoch"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/liguria.jpg"
+date:   2017-08-06 05:12:12
+end_date:   2017-08-13 12:12:12
+photos_path: "img/liguria"
+images:
+  - "DSC_0796.JPG"
+  - "DSC_0828.JPG"
+  - "DSC_0857.JPG"
+  - "DSC_0911.JPG"
+  - "DSC_0951.JPG"
+  - "DSC_1010.JPG"
+  - "DSC_1022.JPG"
+  - "liguria.jpg"
+  - "DSC_1084.JPG"
+  - "DSC_1156.JPG"
+  - "DSC_1179.JPG"
+  - "DSC_1283.JPG"
+  - "DSC_1291.JPG"
+  - "DSC_1339.JPG"
+  - "DSC_1391.JPG"
+  - "DSC_1438.JPG"
+  - "DSC_1443.JPG"
+  - "DSC_1509.JPG"
+
+---
+🇮🇹 **Włochy:**<br/>
+**<sub><sup>Brescia - Garda - Cremona - Genua - Portofino - Cinque Terre - Piza - Chianti - Siena - San Gimignano - Ferrara - Cividale del Friuli</sup></sub>**<br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z włoskiej wyprawy znajdziecie <a href="https://photos.app.goo.gl/Kp0RFwjyZ2yawjbs2">tutaj</a>**</sup></sub>
+
+Pierwsza wyprawa Róży! Pierwszy lot, pierwszy pobyt za granicą, pierwszy roadtrip! Wybraliśmy trasę wspaniałymi, a nieznanymi nam wcześniej zakątkami Włoch - kawałek Lombardii, wybrzeże i góry Ligurii, najbardziej znane landmarki Toskanii. A na zakończenie tajemnicze i radosne Friuli. Róża zniosła to doskonale, my nacieszyliśmy oczy i brzuchy, więc pełen sukces!
