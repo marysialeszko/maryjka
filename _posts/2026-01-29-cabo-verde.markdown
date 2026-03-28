@@ -27,7 +27,7 @@ images:
   - "DSC04614.JPG"
   - "DSC04628.JPG"
   - "DSC04650.JPG"
-  - "capoverde.jpg"
+  - "caboverde.jpg"
   - "DSC04711.JPG"
 
 ---
