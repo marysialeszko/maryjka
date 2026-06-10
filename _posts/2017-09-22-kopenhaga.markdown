@@ -5,6 +5,7 @@ author: "Maryjka"
 avatar: "img/authors/mary.jpg"
 image: "img/kopenhaga.jpg"
 date:   2017-09-22 05:12:12
+end_date:   2017-09-24 12:12:12
 photos_path: "img/kopenhaga"
 images:
   - "kopenhaga.jpg"
