@@ -1,0 +1,25 @@
+---
+title:  "26.06.4-7 BRNO I MORAWY"
+subtitle: "Długi weekend czerwcowy w Południowych Czechach"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/brno.jpg"
+date:   2026-06-04 05:12:12
+end_date:   2026-06-07 12:12:12
+photos_path: "img/brno"
+images:
+  - "IMG_8982.jpg"
+  - "brno.jpg"
+  - "IMG_9045.jpg"
+  - "IMG_9071.jpg"
+  - "IMG_9124.jpg"
+  - "IMG_9190.jpg"
+
+---
+🇨🇿 **Czechy**<br/>
+**<sub><sup>Střílky - Brno - Valtice</sup></sub>**<br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z rodzinnego wyjazdu do Brna znajdziecie <a href="https://photos.app.goo.gl/i2hU9gZXDGqBNx5SA">tutaj</a>**</sup></sub>
+
+Czerwcowy wypad w rodzinnym gronie - z Dziadkami i kuzynkami! - na południe Czech. Pogoda dopisała, udało się trochę pozwiedzać (Brno!), pospacerować (Valtice!), a nawet napić zacnego morawskiego wina! Polecam!
