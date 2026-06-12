@@ -17,7 +17,7 @@ images:
 
 ---
 🇷🇴 **Rumunia**<br/>
-**<sub><sup>Rumunia</sup></sub>**<br/>
+**<sub><sup>Bukareszt</sup></sub>**<br/>
 <br/>
 📸 **Zdjęcia**<br/>
 <sub><sup>**Zdjęcia z wyjazdu do Bukaresztu znajdziecie <a href="https://goo.gl/photos/7hbi7nsVFvTr9RxHA">tutaj</a>**</sup></sub>
