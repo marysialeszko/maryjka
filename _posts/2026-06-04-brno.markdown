@@ -1,5 +1,5 @@
 ---
-title:  "26.06.4-7 BRNO I MORAWY"
+title:  "26.06.04-07 BRNO I MORAWY"
 subtitle: "Długi weekend czerwcowy w Południowych Czechach"
 author: "Maryjka"
 avatar: "img/authors/mary.jpg"
