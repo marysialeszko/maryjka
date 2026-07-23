@@ -1,0 +1,29 @@
+------
+title:  "26.04.30-05.05 ABRUZJA I MOLISE"
+subtitle: "Majówka na włoskich bezdrożach"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/abruzja.jpg"
+date:   2026-04-30 05:12:12
+end_date:   2026-05-05 12:12:12
+photos_path: "img/abruzja"
+images:
+  - "DSC05308.JPG"
+  - "DSC05321.JPG"
+  - "DSC05356.JPG"
+  - "DSC05383.JPG"
+  - "DSC05438.JPG"
+  - "DSC05515.JPG"
+  - "DSC05534.JPG"
+  - "DSC05557.JPG"
+  - "DSC05727.JPG"
+
+---
+🇮🇹 **Włochy:**<br/>
+**<sub><sup>Pescara - Penne - Campo Imperatore - Termoli - Civitacampomarano</sup></sub>**<br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z włoskiej majówki znajdziecie <a href="https://photos.app.goo.gl/tbjpSuE3kfmuvMs6A">tutaj</a>**</sup></sub>
+
+Włochy to zawsze dobry pomysł! Tym razem postawiliśmy na mniej znane zakątki tego kraju - górską Abruzję i dzikie Molise.<br/>
+I absolutnie się nie zawiedliśmy! Krajobrazy były obłędne, tłumów brak, jedzenie jak zawsze wspaniałe, a do tego mieliśmy poczucie zanurzenia się w mniej znane, autentyczne Włochy!
