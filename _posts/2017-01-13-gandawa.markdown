@@ -1,0 +1,25 @@
+---
+title:  "17.01.13-15 BRUGIA I GANDAWA"
+subtitle: "Zimowe odwiedziny u Kasi w przytulnej Gandawie"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/gandawa.jpg"
+date:   2017-01-13 05:12:12
+end_date:   2017-01-15 12:12:12
+photos_path: "img/gandawa"
+images:
+  - "gandawa.jpg"
+  - "DSC_0596.JPG"
+  - "DSC_0668.JPG"
+  - "DSC_0686.JPG"
+  - "DSC_0712.JPG"
+  - "DSC_0740.JPG"
+
+---
+🇧🇪 **Belgia:**<br/>
+**<sub><sup>Brugia - Gandawa</sup></sub>**<br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z pobytu w Gandawie znajdziecie <a href="https://goo.gl/photos/UbifUHwpiTiNhMnHA">tutaj</a>**</sup></sub>
+
+Wafle moczone w herbacie, łagodne światełka choinkowe, frytki i doskonałe piwo, a wszystko to okraszone doskonałym towarzystwem - Belgia w najlepszym wydaniu!
