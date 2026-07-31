@@ -1,0 +1,32 @@
+---
+title:  "25.11.07-11 LIZBONA"
+subtitle: "Przedłużony dziewczyński weekend w Lizbonie"
+author: "Maryjka"
+avatar: "img/authors/mary.jpg"
+image: "img/lizbona.jpg"
+date:   2025-11-07 05:12:12
+end_date:   2025-11-11 12:12:12
+photos_path: "img/lizbona"
+images:
+  - "lizbona.jpg"
+  - "DSC02524.JPG"
+  - "DSC02551.JPG"
+  - "DSC02606.JPG"
+  - "DSC02709.JPG"
+  - "DSC02715.JPG"
+  - "DSC02746.JPG"
+  - "DSC02774.JPG"
+  - "DSC02829.JPG"
+  - "DSC03239.JPG"
+  - "DSC03266.JPG"
+  - "DSC03276.JPG"
+
+
+---
+🌍 **Miejsca**<br/>
+<sub><sup>🇵🇹 **Portugalia:** Lizbona - Sintra - Mafra</sup></sub><br/>
+<br/>
+📸 **Zdjęcia**<br/>
+<sub><sup>**Zdjęcia z wyjazdu do Lizbony znajdziecie <a href="https://photos.app.goo.gl/ACY9zd5vxPgKqAW98">tutaj</a>**</sup></sub>
+
+Ach, jak potrzebowałam wyjechać gdzieś bez rodziny! Padło na nigdy jeszcze nie odwiedzoną przeze mnie piękną Lizbonę. Pogoda wciąż jeszcze piękna, zabytki oszałamiające, aktywny tryb - tak jak lubię najbardziej!, duża różnorodność miejsc, wspaniałe jedzenie i towarzystwo przyjaciółki. I jak tu się nie zachwycać takimi wypadami?
